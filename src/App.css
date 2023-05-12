@@ -1,0 +1,30 @@
+.header {
+    display: flex; 
+    align-items: center;
+}
+
+.header h1 {
+    margin: 10px 20px;
+}
+
+.header div {
+    text-align: center;
+    margin: 10px 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+td {
+    max-width: 8rem;
+}
+
+a:hover {
+    cursor: pointer; 
+}
+
+.sidebar-link {
+    padding: 30px 0; 
+}
